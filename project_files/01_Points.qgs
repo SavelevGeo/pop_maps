@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" saveUser="savelevgeo" saveUserFull="savelevgeo" version="3.44.3-Solothurn" saveDateTime="2025-11-01T23:48:12">
+<qgis projectname="" saveUser="savelevgeo" saveUserFull="savelevgeo" version="3.44.3-Solothurn" saveDateTime="2025-11-02T00:00:36">
   <homePath path=""/>
   <title></title>
   <transaction mode="Disabled"/>
@@ -12005,7 +12005,7 @@
           </dd_properties>
         </text-style>
       </LayoutItem>
-      <LayoutItem id="" positionOnPage="229.133,192.978,mm" background="false" frame="false" blendMode="0" groupUuid="" marginX="5" outlineWidthM="0.3,mm" halign="2" visibility="1" referencePoint="4" positionLock="false" labelText="Made with Natural Earth.&#xa;Free vector and raster map data &#xa;@ naturalearthdata.com" itemRotation="0" marginY="5" templateUuid="{07676261-caf8-46c5-9481-f42412152cfc}" excludeFromExports="0" size="135.733,26.1879,mm" opacity="1" valign="64" position="229.133,192.978,mm" frameJoinStyle="miter" zValue="4" htmlState="0" uuid="{07676261-caf8-46c5-9481-f42412152cfc}" type="65641">
+      <LayoutItem id="" positionOnPage="229.133,195.924,mm" background="false" frame="false" blendMode="0" groupUuid="" marginX="5" outlineWidthM="0.3,mm" halign="2" visibility="1" referencePoint="4" positionLock="false" labelText="Made with Natural Earth.&#xa;Free vector and raster map data &#xa;@ naturalearthdata.com&#xa;&#xa;Source code https://github.com/SavelevGeo/pop_maps" itemRotation="0" marginY="5" templateUuid="{07676261-caf8-46c5-9481-f42412152cfc}" excludeFromExports="0" size="135.733,34.0444,mm" opacity="1" valign="64" position="229.133,195.924,mm" frameJoinStyle="miter" zValue="4" htmlState="0" uuid="{07676261-caf8-46c5-9481-f42412152cfc}" type="65641">
         <FrameColor blue="0" alpha="255" red="0" green="0"/>
         <BackgroundColor blue="255" alpha="255" red="255" green="255"/>
         <LayoutObject>
@@ -12251,7 +12251,7 @@
   <Sensors/>
   <ProjectViewSettings UseProjectScales="0" rotation="0">
     <Scales/>
-    <DefaultViewExtent xmax="18491984.14990326017141342" xmin="-18512274.46814990043640137" ymin="-16119209.99826258979737759" ymax="15996274.61537298001348972">
+    <DefaultViewExtent xmax="18491984.14990326017141342" xmin="-18512274.46814990043640137" ymin="-11888427.59407107718288898" ymax="11765492.21118146739900112">
       <spatialrefsys nativeFormat="Wkt">
         <wkt>PROJCRS["World_Eckert_VI",BASEGEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["Degree",0.0174532925199433]]],CONVERSION["World_Eckert_VI",METHOD["Eckert VI"],PARAMETER["Longitude of natural origin",0,ANGLEUNIT["Degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Not known."],AREA["World."],BBOX[-90,-180,90,180]],ID["ESRI",54010]]</wkt>
         <proj4>+proj=eck6 +lon_0=0 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
