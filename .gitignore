@@ -1,2 +1,2 @@
 *.qgs~
-data/ne_10m_populated_places.zip
+data/*
